@@ -1,9 +1,9 @@
 <p align="center"><img src="https://raw.githubusercontent.com/images/main logo 2.png" /></p>
 
-# [Daniel Gaudreault]'s GitHub Repository
+# Daniel Gaudreault's GitHub Repository
 
 ## About Me
-Hey there! I'm [Daniel], a [Your Profession or Passion]. I'm passionate about [mention your interests or expertise areas]. You can find more about me on my [personal website](https://www.example.com) or [LinkedIn](https://www.linkedin.com/in/yourprofile).
+Hey there! I'm Daniel, a [Your Profession or Passion]. I'm passionate about [mention your interests or expertise areas]. You can find more about me on my website https://danielgaudreault.github.io/mywebsite/ or [LinkedIn](https://www.linkedin.com/in/yourprofile).
 
 ## Projects
 
@@ -24,9 +24,9 @@ Hey there! I'm [Daniel], a [Your Profession or Passion]. I'm passionate about [m
 
 ## Contact Me
 Feel free to reach out to me via:
-- Email: [Your Email Address](mailto:youremail@example.com)
+- Email: dan.gaudreault87@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
+- Twitter: https://twitter.com/yourhandle](https://twitter.com/DGmovement87
 
 ## Contributions
 I'm open to collaboration and contributions. If you have any suggestions or improvements for my projects, feel free to submit a pull request or open an issue!
