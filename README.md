@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/images/main logo 2.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/main logo 2.png" /></p>
 
 # Daniel Gaudreault's GitHub Repository
 
