@@ -3,7 +3,7 @@
 # Daniel Gaudreault's GitHub Repository
 
 ## About Me
-Hey there! I'm Daniel, a [Your Profession or Passion]. I'm passionate about [mention your interests or expertise areas]. You can find more about me on my website https://danielgaudreault.github.io/mywebsite/ or [LinkedIn](https://www.linkedin.com/in/yourprofile).
+Hey there! I'm Daniel, a [Your Profession or Passion]. I'm passionate about [mention your interests or expertise areas]. You can find more about me on my website https://danielgaudreault.github.io/mywebsite or https://www.linkedin.com/in/daniel-gaudreault-373b67203.
 
 ## Projects
 
@@ -25,8 +25,8 @@ Hey there! I'm Daniel, a [Your Profession or Passion]. I'm passionate about [men
 ## Contact Me
 Feel free to reach out to me via:
 - Email: dan.gaudreault87@gmail.com
-- Twitch:
-- Website: <p align="center"><img src="https://raw.githubusercontent.com/images/main logo 2.png" /></p>
+- Twitch: https://www.twitch.tv/lordentropy87
+- Website: https://danielgaudreault.github.io/mywebsite/index.html
 
 # Daniel Gaudreault's GitHub Repository
 
