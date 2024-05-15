@@ -25,11 +25,12 @@ Hey there! I'm Daniel, a [Your Profession or Passion]. I'm passionate about [men
 ## Contact Me
 Feel free to reach out to me via:
 - Email: dan.gaudreault87@gmail.com
+- Twitch:
+- Website:
+- Youtube:
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - Twitter: https://twitter.com/yourhandle](https://twitter.com/DGmovement87
 
 ## Contributions
 I'm open to collaboration and contributions. If you have any suggestions or improvements for my projects, feel free to submit a pull request or open an issue!
 
-## License
-This repository is licensed under the [license name]. See the [LICENSE](LICENSE) file for details.
