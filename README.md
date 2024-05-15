@@ -28,7 +28,7 @@ Feel free to reach out to me via:
 - Twitch: https://twitter.com/yourhandle](https://twitter.com/DGmovement87
 - Website: https://danielgaudreault.github.io/mywebsite/index.html
 - Youtube: https://www.youtube.com/@Empoweryourmind87
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- LinkedIn: https://www.linkedin.com/in/daniel-gaudreault-373b67203
 - Twitter: https://twitter.com/yourhandle](https://twitter.com/DGmovement87
 
 ## Contributions
