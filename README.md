@@ -11,15 +11,11 @@ Hey there! I'm Daniel, a web developer based in Montreal. I'm passionate about c
 
 ## Projects
 
-### Project 1: [Project Name]
-- **Description:** Brief description of the project.
+### Project 1: Mywebsite
+- **Description:** my wedsite  portfolio.
 - **Technologies Used:** List of technologies or languages used.
-- **Link:** Link to the project repository or website.
+- **Link:** https://danielgaudreault.github.io/mywebsite.
 
-### Project 2: [Project Name]
-- **Description:** Brief description of the project.
-- **Technologies Used:** List of technologies or languages used.
-- **Link:** Link to the project repository or website.
 
 ## Skills
 - **HTML5**
