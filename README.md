@@ -31,11 +31,11 @@ Hey there! I'm Daniel, a web developer based in Montreal. I'm passionate about c
 ## Contact Me
 Feel free to reach out to me via:
 - **Email:** dan.gaudreault87@gmail.com
-- **Twitch:** [Your Twitch handle](https://twitter.com/DGmovement87)
-- **Website:** [Your website](https://danielgaudreault.github.io/mywebsite/index.html)
-- **Youtube:** [Your Youtube channel](https://www.youtube.com/@Empoweryourmind87)
-- **LinkedIn:** [Your LinkedIn profile](https://www.linkedin.com/in/daniel-gaudreault-373b67203)
-- **Twitter:** [Your Twitter handle](https://twitter.com/DGmovement87)
+- **Twitch:** [My Twitch handle](https://twitter.com/DGmovement87)
+- **Website:** [MY website](https://danielgaudreault.github.io/mywebsite/index.html)
+- **Youtube:** [My Youtube channel](https://www.youtube.com/@Empoweryourmind87)
+- **LinkedIn:** [My LinkedIn profile](https://www.linkedin.com/in/daniel-gaudreault-373b67203)
+- **Twitter:** [My Twitter handle](https://twitter.com/DGmovement87)
 
 ## Contributions
 I'm open to collaboration and contributions. If you have any suggestions or improvements for my projects, feel free to submit a pull request or open an issue!
