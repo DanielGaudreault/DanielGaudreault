@@ -71,12 +71,6 @@
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Outlook logo" />
 </div>
 
-<p><strong>Email:</strong> dan.gaudreault87@gmail.com</p>
-<p><strong>Twitch:</strong> <a href="https://www.twitch.tv/lordentropy87" target="_blank">My Twitch handle</a></p>
-<p><strong>Website:</strong> <a href="https://danielgaudreault.github.io/mywebsite/index.html" target="_blank">My website</a></p>
-<p><strong>YouTube:</strong> <a href="https://www.youtube.com/@Empoweryourmind87" target="_blank">My YouTube channel</a></p>
-<p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/daniel-gaudreault-373b67203" target="_blank">My LinkedIn profile</a></p>
-<p><strong>Twitter:</strong> <a href="https://twitter.com/DGmovement87" target="_blank">My Twitter handle</a></p>
 
 <h2>Contributions</h2>
 <p>I'm open to collaboration and contributions. If you have any suggestions or improvements for my projects, feel free to submit a pull request or open an issue!</p>
