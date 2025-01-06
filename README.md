@@ -11,7 +11,7 @@
 - 🔭 I've been working as a web developer since 2024<br>
 - 👨🏼‍🎓 I studied at Harvard<br>
 - ⚡ Currently, I am working on my own webpage<br>
-- I'm passionate about creating meaningful and user-friendly web experiences. Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or [LinkedIn](https://www.linkedin.com/in/daniel-gaudreault-373b67203).</p>
+- 🍀 I'm passionate about creating meaningful and user-friendly web experiences. Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or [LinkedIn](https://www.linkedin.com/in/daniel-gaudreault-373b67203).</p>
 
 ## Projects
 
@@ -69,8 +69,3 @@
 
 I'm open to collaboration and contributions. If you have any suggestions or improvements for my projects, feel free to submit a pull request or open an issue!
 
-<h3 align="left">🔥   My Stats :</h3>
-
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
