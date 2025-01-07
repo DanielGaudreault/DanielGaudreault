@@ -163,7 +163,7 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 
 ### 📝 Daily Dev Card
 
-<a href="https://app.daily.dev/DanielGaudreault">
+<a href="https://app.daily.dev/danielgaudreault">
   <img src="https://api.daily.dev/devcards/YOUR_CARD_ID.png" width="400" alt="Daniel Gaudreault's Dev Card"/>
 </a>
 
