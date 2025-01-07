@@ -201,9 +201,7 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 ## 🌤️ Current Weather
 
 Here’s the current weather in Montreal, Canada:  
-<a href="https://weatherwidget.io/" target="_blank">
-  <img src="https://weatherwidget.io/weather/?id=6077243&units=metric" alt="Montreal Weather" />
-</a>
+<iframe src="https://forecast7.com/en/45d50n73d57/montreal/" style="width: 100%; height: 300px; border: 0;" frameborder="0" scrolling="no"></iframe>
 
 ---
 
