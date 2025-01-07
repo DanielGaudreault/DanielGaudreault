@@ -36,6 +36,16 @@
 - [Live Demo](#-live-demo)
 - [Contributors](#-contributors)
 - [Dark Mode Enthusiast](#-dark-mode-enthusiast)
+- [GitHub Activity](#-github-activity)
+- [Tech Stack Showcase](#-tech-stack-showcase)
+- [Coding Challenges](#-coding-challenges)
+- [Recent Achievements](#-recent-achievements)
+- [Collaboration Opportunities](#-collaboration-opportunities)
+- [FAQ](#-faq)
+- [Quote of the Day](#-quote-of-the-day)
+- [Visitor Count](#-visitor-count)
+- [Fun Interactive Element](#-fun-interactive-element)
+- [Thank You](#-thank-you)
 
 ---
 
@@ -286,5 +296,90 @@ I'm always open to collaboration and contributions! If you have any suggestions 
 - Open an **issue**.  
 
 Let's build something amazing together! 🚀
+
+---
+
+### 📈 GitHub Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/DanielGaudreault/mywebsite/pull/1) in [DanielGaudreault/mywebsite](https://github.com/DanielGaudreault/mywebsite)
+2. 🚀 Pushed 3 commits to [DanielGaudreault/mywebsite](https://github.com/DanielGaudreault/mywebsite)
+3. ⭐ Starred [awesome-readme](https://github.com/matiassingers/awesome-readme)
+<!--END_SECTION:activity-->
+
+---
+
+### 🛠️ Tech Stack Showcase
+
+| **Category**       | **Technologies**                                                                                   |
+|---------------------|---------------------------------------------------------------------------------------------------|
+| **Frontend**        | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| **Backend**         | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Tools**           | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+
+---
+
+### 🧠 Coding Challenges
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/DanielGaudreault)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/DanielGaudreault)  
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/DanielGaudreault)
+
+---
+
+### 🏅 Recent Achievements
+
+- **2024**: Started working as a web developer.  
+- **2023**: Graduated from Harvard.  
+- **2022**: Built my first full-stack application.  
+- **2021**: Started learning web development.  
+
+---
+
+### 🤝 Collaboration Opportunities
+
+I'm currently looking to collaborate on:  
+- Open-source projects.  
+- Web development tutorials or courses.  
+- Innovative tech startups.  
+
+If you're interested, feel free to [reach out](#-contact-me)!
+
+---
+
+### ❓ FAQ
+
+**Q: What inspired you to become a web developer?**  
+A: I've always been fascinated by how technology can solve real-world problems, and web development allows me to create meaningful experiences for users.
+
+**Q: What's your favorite tech stack?**  
+A: I love working with the MERN stack (MongoDB, Express, React, Node.js) for its flexibility and scalability.
+
+**Q: How can I contribute to your projects?**  
+A: Check out the [Contributions](#-contributions) section for details!
+
+---
+
+### 💬 Quote of the Day
+
+> "The only way to do great work is to love what you do." – Steve Jobs
+
+---
+
+### 👀 Visitor Count
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=DanielGaudreault.DanielGaudreault)
+
+---
+
+### 🎮 Fun Interactive Element
+
+Try this fun game: [Tic-Tac-Toe](https://danielgaudreault.github.io/tictactoe)
+
+---
+
+### 🙏 Thank You!
+
+Thank you for visiting my profile! If you found anything interesting or want to connect, feel free to reach out. Let's build something amazing together! 🚀
 
 ---
