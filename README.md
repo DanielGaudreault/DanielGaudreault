@@ -200,7 +200,7 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 
 ### 📜 Certifications
 
-- **Harvard CS50**: [View Certificate](https://example.com)
+- **Harvard CS50**: [View Certificate](https://cs50.harvard.edu/certificates/f9ef6e1a-c269-41cb-a960-5b92c0ef04ab)
 - **React Developer**: [View Certificate](https://example.com)
 - **AWS Certified**: [View Certificate](https://example.com)
 
