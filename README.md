@@ -56,6 +56,7 @@ I'm Daniel, a passionate web developer based in Montreal, Canada.
 - 👨‍🎓 I studied at Harvard.  
 - ⚡ Currently, I'm building my personal portfolio website.  
 - 🍀 I love creating meaningful and user-friendly web experiences.  
+- 🎮 Fun Fact: I once built a website in 24 hours during a hackathon!  
 
 Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-gaudreault-373b67203).
 
@@ -67,6 +68,16 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 - **Description**: My personal portfolio website showcasing my skills and projects.  
 - **Technologies Used**: HTML5, CSS3, JavaScript, React.js  
 - **Link**: [Visit my website](https://danielgaudreault.github.io/mywebsite)  
+
+### Project 2: Weather App
+- **Description**: A real-time weather application using OpenWeatherMap API.  
+- **Technologies Used**: React.js, Node.js, Express.js  
+- **Link**: [View Project](https://github.com/DanielGaudreault/weather-app)  
+
+### Project 3: Task Manager
+- **Description**: A full-stack task management application with user authentication.  
+- **Technologies Used**: MongoDB, Express.js, React.js, Node.js (MERN stack)  
+- **Link**: [View Project](https://github.com/DanielGaudreault/task-manager)  
 
 ---
 
@@ -171,10 +182,10 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 
 ## 🗓️ Timeline
 
-- **2024**: Started working as a web developer.
-- **2023**: Graduated from Harvard.
-- **2022**: Built my first full-stack application.
-- **2021**: Started learning web development.
+- **2024**: Started working as a web developer.  
+- **2023**: Graduated from Harvard.  
+- **2022**: Built my first full-stack application.  
+- **2021**: Started learning web development.  
 
 ---
 
@@ -186,7 +197,8 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 
 ## 🌤️ Current Weather
 
-![Weather](https://wttr.in/Montreal.png)
+Here’s the current weather in Montreal, Canada:  
+![Weather](https://wttr.in/Montreal.png?format=v2)
 
 ---
 
@@ -210,9 +222,9 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 
 ## 📜 Certifications
 
-- **Harvard CS50**: [View Certificate](https://cs50.harvard.edu/certificates/f9ef6e1a-c269-41cb-a960-5b92c0ef04ab)
-- **React Developer**: [View Certificate](https://example.com)
-- **AWS Certified**: [View Certificate](https://example.com)
+- **Harvard CS50**: [View Certificate](https://cs50.harvard.edu/certificates/f9ef6e1a-c269-41cb-a960-5b92c0ef04ab)  
+- **React Developer**: [View Certificate](https://example.com)  
+- **AWS Certified**: [View Certificate](https://example.com)  
 
 ---
 
