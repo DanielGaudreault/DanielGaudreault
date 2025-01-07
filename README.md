@@ -6,6 +6,20 @@
 
 ---
 
+### 📑 Table of Contents
+
+- [About Me](#-about-me)
+- [Projects](#-projects)
+- [Skills](#-skills)
+- [Languages and Tools](#-languages-and-tools)
+- [Contact Me](#-contact-me)
+- [Contributions](#-contributions)
+- [GitHub Stats](#-github-stats)
+- [Fun Fact](#-fun-fact)
+- [Support Me](#-support-me)
+
+---
+
 ### 👩‍💻 About Me
 
 I'm Daniel, a passionate web developer based in Montreal, Canada.  
@@ -89,6 +103,36 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Outlook logo" />
   </a>
 </div>
+
+---
+
+### 📊 GitHub Stats
+
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielGaudreault&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGaudreault&layout=compact&theme=radical)
+
+---
+
+### 🌟 Fun Fact
+
+> "I once coded for 24 hours straight to finish a project. Coffee is my best friend ☕!"
+
+---
+
+### 💬 Favorite Quote
+
+> "The best way to predict the future is to create it." – Peter Drucker
+
+---
+
+### ☕ Support Me
+
+If you like my work, consider supporting me:
+
+<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="35" alt="Buy Me a Coffee" />
+</a>
 
 ---
 
