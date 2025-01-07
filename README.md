@@ -67,17 +67,20 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 ### My Website
 - **Description**: My personal portfolio website showcasing my skills and projects.  
 - **Technologies Used**: HTML5, CSS3, JavaScript, React.js  
-- **Link**: [Visit my website](https://danielgaudreault.github.io/mywebsite)  
+- **Live Demo**: [Visit my website](https://danielgaudreault.github.io/mywebsite)  
+- **Source Code**: [View on GitHub](https://github.com/DanielGaudreault/mywebsite)  
 
-### Project 2: Weather App
+### Weather App
 - **Description**: A real-time weather application using OpenWeatherMap API.  
 - **Technologies Used**: React.js, Node.js, Express.js  
-- **Link**: [View Project](https://github.com/DanielGaudreault/weather-app)  
+- **Live Demo**: [View Project](https://danielgaudreault.github.io/weather-app)  
+- **Source Code**: [View on GitHub](https://github.com/DanielGaudreault/weather-app)  
 
-### Project 3: Task Manager
+### Task Manager
 - **Description**: A full-stack task management application with user authentication.  
 - **Technologies Used**: MongoDB, Express.js, React.js, Node.js (MERN stack)  
-- **Link**: [View Project](https://github.com/DanielGaudreault/task-manager)  
+- **Live Demo**: [View Project](https://danielgaudreault.github.io/task-manager)  
+- **Source Code**: [View on GitHub](https://github.com/DanielGaudreault/task-manager)  
 
 ---
 
@@ -115,32 +118,32 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 ## 📫 Contact Me
 
 <div align="left">
-  <a href="https://www.youtube.com/@Empoweryourmind87" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube logo" />
+  <a href="https://www.youtube.com/@Empoweryourmind87" target="_blank" title="Subscribe to my YouTube channel">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="YouTube" />
   </a>
-  <a href="https://www.instagram.com/dgmovement87/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+  <a href="https://www.instagram.com/dgmovement87/" target="_blank" title="Follow me on Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
   </a>
-  <a href="https://www.twitch.tv/lordentropy87" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch logo" />
+  <a href="https://www.twitch.tv/lordentropy87" target="_blank" title="Watch me on Twitch">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="35" alt="Twitch" />
   </a>
-  <a href="https://discord.gg/SYd8vwV2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
+  <a href="https://discord.gg/SYd8vwV2" target="_blank" title="Join my Discord server">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord" />
   </a>
-  <a href="mailto:dan.gaudreault87@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  <a href="mailto:dan.gaudreault87@gmail.com" target="_blank" title="Send me an email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/daniel-gaudreault-373b67203" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  <a href="https://www.linkedin.com/in/daniel-gaudreault-373b67203" target="_blank" title="Connect with me on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/DGmovement87" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
+  <a href="https://twitter.com/DGmovement87" target="_blank" title="Follow me on Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="Twitter" />
   </a>
-  <a href="https://www.facebook.com/dan.gaudreault/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo" />
+  <a href="https://www.facebook.com/dan.gaudreault/" target="_blank" title="Connect with me on Facebook">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="Facebook" />
   </a>
-  <a href="mailto:gameryourface@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Outlook logo" />
+  <a href="mailto:gameryourface@hotmail.com" target="_blank" title="Send me an email">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35" alt="Outlook" />
   </a>
 </div>
 
@@ -174,7 +177,7 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 
 ## 📝 Daily Dev Card
 
-<a href="https://app.daily.dev/danielgaudreault">
+<a href="https://app.daily.dev/danielgaudreault" target="_blank" title="View my Daily.dev profile">
   <img src="https://api.daily.dev/devcards/YOUR_CARD_ID.png" width="400" alt="Daniel Gaudreault's Dev Card"/>
 </a>
 
@@ -292,10 +295,10 @@ Here’s the current weather in Montreal, Canada:
 
 If you like my work, consider supporting me:
 
-<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+<a href="https://www.buymeacoffee.com/yourusername" target="_blank" title="Buy me a coffee">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="35" alt="Buy Me a Coffee" />
 </a>
-<a href="https://github.com/sponsors/DanielGaudreault" target="_blank">
+<a href="https://github.com/sponsors/DanielGaudreault" target="_blank" title="Sponsor me on GitHub">
   <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" height="35" alt="GitHub Sponsors" />
 </a>
 
@@ -381,6 +384,7 @@ A: Check out the [Contributions](#-contributions) section for details!
 ## 👀 Visitor Count
 
 ![Hit Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDanielGaudreault%2Fmywebsite&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+
 ---
 
 ## 🎮 Fun Interactive Element
