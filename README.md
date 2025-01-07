@@ -380,7 +380,7 @@ A: Check out the [Contributions](#-contributions) section for details!
 
 ## 👀 Visitor Count
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=DanielGaudreault.DanielGaudreault)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=DanielGaudreault.mywebsite)
 
 ---
 
