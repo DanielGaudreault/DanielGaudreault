@@ -207,8 +207,7 @@ Here’s the current weather in Montreal, Canada:
 
 ## 🎶 My Coding Playlist
 
-<iframe src="https://open.spotify.com/embed/playlist/YOUR_PLAYLIST_ID" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
+<iframe src="https://open.spotify.com/embed/playlist/7c383Bo6C1z81zR7dsQaCa" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 ---
 
 ## 🐍 GitHub Contribution Snake
