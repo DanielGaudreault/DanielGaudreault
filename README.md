@@ -4,32 +4,47 @@
 
 <h1 align="center">Hello World! I'm Daniel, a Scottish Web Developer 👋</h1>
 
-<h3 align="left">👩‍💻 About Me</h3>
-<p align="left">
-  I'm Daniel from Montreal<br><br>
-  - 🔭 I've been working as a web developer since 2024<br>
-  - 👨🏼‍🎓 I studied at Harvard<br>
-  - ⚡ Currently, I am working on my own webpage<br>
-  - 🍀 I'm passionate about creating meaningful and user-friendly web experiences. Check out more on my <a href="https://danielgaudreault.github.io/mywebsite" target="_blank">website</a> or <a href="https://www.linkedin.com/in/daniel-gaudreault-373b67203" target="_blank">LinkedIn</a>.
-</p>
+---
 
-<h2>Projects</h2>
-<h3>My Website</h3>
-<ul>
-  <li><strong>Description:</strong> My personal portfolio website.</li>
-  <li><strong>Technologies Used:</strong> HTML5, CSS3, JavaScript, React.js</li>
-  <li><strong>Link:</strong> <a href="https://danielgaudreault.github.io/mywebsite" target="_blank">Visit my website</a></li>
-</ul>
+### 👩‍💻 About Me
 
-<h2>Skills</h2>
-<ul>
-  <li><strong>Languages & Frameworks:</strong> HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, SQL</li>
-  <li><strong>Tools:</strong> Git, Visual Studio, Docker, Unreal Engine, Bash, GitHub</li>
-  <li><strong>Platforms:</strong> Android, iOS, Raspberry Pi</li>
-  <li><strong>Design:</strong> UI/UX Design, Responsive Web Design</li>
-</ul>
+I'm Daniel, a passionate web developer based in Montreal, Canada.  
+- 🔭 I've been working as a web developer since 2024.  
+- 👨‍🎓 I studied at Harvard.  
+- ⚡ Currently, I'm building my personal portfolio website.  
+- 🍀 I love creating meaningful and user-friendly web experiences.  
 
-<h2>Languages and Tools</h2>
+Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-gaudreault-373b67203).
+
+---
+
+### 🚀 Projects
+
+#### My Website
+- **Description**: My personal portfolio website showcasing my skills and projects.  
+- **Technologies Used**: HTML5, CSS3, JavaScript, React.js  
+- **Link**: [Visit my website](https://danielgaudreault.github.io/mywebsite)  
+
+---
+
+### 💻 Skills
+
+#### Languages & Frameworks
+- HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, SQL  
+
+#### Tools
+- Git, Visual Studio, Docker, Unreal Engine, Bash, GitHub  
+
+#### Platforms
+- Android, iOS, Raspberry Pi  
+
+#### Design
+- UI/UX Design, Responsive Web Design  
+
+---
+
+### 🛠️ Languages and Tools
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio logo" />
@@ -41,7 +56,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
 </div>
 
-<h2>Contact Me</h2>
+---
+
+### 📫 Contact Me
+
 <div align="left">
   <a href="https://www.youtube.com/@Empoweryourmind87" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube logo" />
@@ -68,9 +86,18 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo" />
   </a>
   <a href="mailto:gameryourface@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Outlook logo" />
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Outlook logo" />
+  </a>
 </div>
 
+---
 
-<h2>Contributions</h2>
-<p>I'm open to collaboration and contributions. If you have any suggestions or improvements for my projects, feel free to submit a pull request or open an issue!</p>
+### 🤝 Contributions
+
+I'm always open to collaboration and contributions! If you have any suggestions or improvements for my projects, feel free to:  
+- Submit a **pull request**.  
+- Open an **issue**.  
+
+Let's build something amazing together! 🚀
+
+---
