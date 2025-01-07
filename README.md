@@ -6,7 +6,7 @@
 
 ---
 
-### 📑 Table of Contents
+## 📑 Table of Contents
 
 - [About Me](#-about-me)
 - [Projects](#-projects)
@@ -49,7 +49,7 @@
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 I'm Daniel, a passionate web developer based in Montreal, Canada.  
 - 🔭 I've been working as a web developer since 2024.  
@@ -61,32 +61,32 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
-#### My Website
+### My Website
 - **Description**: My personal portfolio website showcasing my skills and projects.  
 - **Technologies Used**: HTML5, CSS3, JavaScript, React.js  
 - **Link**: [Visit my website](https://danielgaudreault.github.io/mywebsite)  
 
 ---
 
-### 💻 Skills
+## 💻 Skills
 
-#### Languages & Frameworks
+### Languages & Frameworks
 - HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, SQL  
 
-#### Tools
+### Tools
 - Git, Visual Studio, Docker, Unreal Engine, Bash, GitHub  
 
-#### Platforms
+### Platforms
 - Android, iOS, Raspberry Pi  
 
-#### Design
+### Design
 - UI/UX Design, Responsive Web Design  
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
@@ -101,7 +101,7 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 
 ---
 
-### 📫 Contact Me
+## 📫 Contact Me
 
 <div align="left">
   <a href="https://www.youtube.com/@Empoweryourmind87" target="_blank">
@@ -135,7 +135,7 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielGaudreault&show_icons=true&theme=radical)
 
@@ -143,25 +143,25 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DanielGaudreault&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 🎥 Latest YouTube Video
+## 🎥 Latest YouTube Video
 
 [![Latest YouTube Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ---
 
-### 📊 Tech Stack Breakdown
+## 📊 Tech Stack Breakdown
 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,docker)
 
 ---
 
-### 📝 Daily Dev Card
+## 📝 Daily Dev Card
 
 <a href="https://app.daily.dev/danielgaudreault">
   <img src="https://api.daily.dev/devcards/YOUR_CARD_ID.png" width="400" alt="Daniel Gaudreault's Dev Card"/>
@@ -169,7 +169,7 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 
 ---
 
-### 🗓️ Timeline
+## 🗓️ Timeline
 
 - **2024**: Started working as a web developer.
 - **2023**: Graduated from Harvard.
@@ -178,37 +178,37 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 
 ---
 
-### 😂 Random Dev Joke
+## 😂 Random Dev Joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
 
-### 🌤️ Current Weather
+## 🌤️ Current Weather
 
 ![Weather](https://wttr.in/Montreal.png)
 
 ---
 
-### 🎶 My Coding Playlist
+## 🎶 My Coding Playlist
 
 <iframe src="https://open.spotify.com/embed/playlist/YOUR_PLAYLIST_ID" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---
 
-### 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution Snake
 
 ![Snake Animation](https://raw.githubusercontent.com/DanielGaudreault/DanielGaudreault/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 🎃 Hacktoberfest 2023
+## 🎃 Hacktoberfest 2023
 
 [![@danielgaudreault's Holopin board](https://holopin.io/api/user/board?user=danielgaudreault)](https://holopin.io/@danielgaudreault)
 
 ---
 
-### 📜 Certifications
+## 📜 Certifications
 
 - **Harvard CS50**: [View Certificate](https://cs50.harvard.edu/certificates/f9ef6e1a-c269-41cb-a960-5b92c0ef04ab)
 - **React Developer**: [View Certificate](https://example.com)
@@ -216,7 +216,7 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 
 ---
 
-### 🌟 Testimonials
+## 🌟 Testimonials
 
 > "Daniel is an incredible developer with a keen eye for detail. His work is always top-notch!"  
 > – **John Doe**, CEO of Example Inc.
@@ -226,13 +226,13 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 
 ---
 
-### 🎨 Figma Design
+## 🎨 Figma Design
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FYOUR_FILE_ID%2FYour-Design%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 ---
 
-### 🐦 Latest Tweet
+## 🐦 Latest Tweet
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DGmovement87?style=social)](https://twitter.com/DGmovement87)
 
@@ -242,13 +242,13 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 
 ---
 
-### 🖼️ 3D Model
+## 🖼️ 3D Model
 
 <iframe width="560" height="315" src="https://sketchfab.com/models/YOUR_MODEL_ID/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ---
 
-### 📚 Book Recommendations
+## 📚 Book Recommendations
 
 - **Clean Code** by Robert C. Martin  
 - **You Don’t Know JS** by Kyle Simpson  
@@ -256,13 +256,13 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 
 ---
 
-### 🚀 Live Demo
+## 🚀 Live Demo
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Here-green)](https://danielgaudreault.github.io/mywebsite)
 
 ---
 
-### 🤝 Contributors
+## 🤝 Contributors
 
 <a href="https://github.com/DanielGaudreault/DanielGaudreault/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=DanielGaudreault/DanielGaudreault" alt="Contributors" />
@@ -270,13 +270,13 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 
 ---
 
-### 🌙 Dark Mode Enthusiast
+## 🌙 Dark Mode Enthusiast
 
 ![Dark Mode](https://img.shields.io/badge/Dark_Mode-Preferred-000000?style=for-the-badge&logo=night&logoColor=white)
 
 ---
 
-### ☕ Support Me
+## ☕ Support Me
 
 If you like my work, consider supporting me:
 
@@ -289,7 +289,7 @@ If you like my work, consider supporting me:
 
 ---
 
-### 🤝 Contributions
+## 🤝 Contributions
 
 I'm always open to collaboration and contributions! If you have any suggestions or improvements for my projects, feel free to:  
 - Submit a **pull request**.  
@@ -299,7 +299,7 @@ Let's build something amazing together! 🚀
 
 ---
 
-### 📈 GitHub Activity
+## 📈 GitHub Activity
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/DanielGaudreault/mywebsite/pull/1) in [DanielGaudreault/mywebsite](https://github.com/DanielGaudreault/mywebsite)
@@ -309,7 +309,7 @@ Let's build something amazing together! 🚀
 
 ---
 
-### 🛠️ Tech Stack Showcase
+## 🛠️ Tech Stack Showcase
 
 | **Category**       | **Technologies**                                                                                   |
 |---------------------|---------------------------------------------------------------------------------------------------|
@@ -319,7 +319,7 @@ Let's build something amazing together! 🚀
 
 ---
 
-### 🧠 Coding Challenges
+## 🧠 Coding Challenges
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/DanielGaudreault)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/DanielGaudreault)  
@@ -327,7 +327,7 @@ Let's build something amazing together! 🚀
 
 ---
 
-### 🏅 Recent Achievements
+## 🏅 Recent Achievements
 
 - **2024**: Started working as a web developer.  
 - **2023**: Graduated from Harvard.  
@@ -336,7 +336,7 @@ Let's build something amazing together! 🚀
 
 ---
 
-### 🤝 Collaboration Opportunities
+## 🤝 Collaboration Opportunities
 
 I'm currently looking to collaborate on:  
 - Open-source projects.  
@@ -347,7 +347,7 @@ If you're interested, feel free to [reach out](#-contact-me)!
 
 ---
 
-### ❓ FAQ
+## ❓ FAQ
 
 **Q: What inspired you to become a web developer?**  
 A: I've always been fascinated by how technology can solve real-world problems, and web development allows me to create meaningful experiences for users.
@@ -360,25 +360,25 @@ A: Check out the [Contributions](#-contributions) section for details!
 
 ---
 
-### 💬 Quote of the Day
+## 💬 Quote of the Day
 
 > "The only way to do great work is to love what you do." – Steve Jobs
 
 ---
 
-### 👀 Visitor Count
+## 👀 Visitor Count
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=DanielGaudreault.DanielGaudreault)
 
 ---
 
-### 🎮 Fun Interactive Element
+## 🎮 Fun Interactive Element
 
 Try this fun game: [Tic-Tac-Toe](https://danielgaudreault.github.io/tictactoe)
 
 ---
 
-### 🙏 Thank You!
+## 🙏 Thank You!
 
 Thank you for visiting my profile! If you found anything interesting or want to connect, feel free to reach out. Let's build something amazing together! 🚀
 
