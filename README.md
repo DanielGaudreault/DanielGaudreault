@@ -17,6 +17,25 @@
 - [GitHub Stats](#-github-stats)
 - [Fun Fact](#-fun-fact)
 - [Support Me](#-support-me)
+- [GitHub Trophies](#-github-trophies)
+- [Latest YouTube Video](#-latest-youtube-video)
+- [Tech Stack Breakdown](#-tech-stack-breakdown)
+- [Daily Dev Card](#-daily-dev-card)
+- [Timeline](#-timeline)
+- [Random Dev Joke](#-random-dev-joke)
+- [Current Weather](#-current-weather)
+- [My Coding Playlist](#-my-coding-playlist)
+- [GitHub Contribution Snake](#-github-contribution-snake)
+- [Hacktoberfest](#-hacktoberfest)
+- [Certifications](#-certifications)
+- [Testimonials](#-testimonials)
+- [Figma Design](#-figma-design)
+- [Latest Tweet](#-latest-tweet)
+- [3D Model](#-3d-model)
+- [Book Recommendations](#-book-recommendations)
+- [Live Demo](#-live-demo)
+- [Contributors](#-contributors)
+- [Dark Mode Enthusiast](#-dark-mode-enthusiast)
 
 ---
 
@@ -114,15 +133,136 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 
 ---
 
-### 🌟 Fun Fact
+### 🏆 GitHub Trophies
 
-> "I once coded for 24 hours straight to finish a project. Coffee is my best friend ☕!"
+[![trophy](https://github-profile-trophy.vercel.app/?username=DanielGaudreault&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 💬 Favorite Quote
+### 🎥 Latest YouTube Video
 
-> "The best way to predict the future is to create it." – Peter Drucker
+[![Latest YouTube Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+---
+
+### 📊 Tech Stack Breakdown
+
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,docker)
+
+---
+
+### 📝 Daily Dev Card
+
+<a href="https://app.daily.dev/DanielGaudreault">
+  <img src="https://api.daily.dev/devcards/YOUR_CARD_ID.png" width="400" alt="Daniel Gaudreault's Dev Card"/>
+</a>
+
+---
+
+### 🗓️ Timeline
+
+- **2024**: Started working as a web developer.
+- **2023**: Graduated from Harvard.
+- **2022**: Built my first full-stack application.
+- **2021**: Started learning web development.
+
+---
+
+### 😂 Random Dev Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+---
+
+### 🌤️ Current Weather
+
+![Weather](https://wttr.in/Montreal.png)
+
+---
+
+### 🎶 My Coding Playlist
+
+<iframe src="https://open.spotify.com/embed/playlist/YOUR_PLAYLIST_ID" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+![Snake Animation](https://raw.githubusercontent.com/DanielGaudreault/DanielGaudreault/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🎃 Hacktoberfest 2023
+
+[![@danielgaudreault's Holopin board](https://holopin.io/api/user/board?user=danielgaudreault)](https://holopin.io/@danielgaudreault)
+
+---
+
+### 📜 Certifications
+
+- **Harvard CS50**: [View Certificate](https://example.com)
+- **React Developer**: [View Certificate](https://example.com)
+- **AWS Certified**: [View Certificate](https://example.com)
+
+---
+
+### 🌟 Testimonials
+
+> "Daniel is an incredible developer with a keen eye for detail. His work is always top-notch!"  
+> – **John Doe**, CEO of Example Inc.
+
+> "Working with Daniel was a pleasure. He delivered the project on time and exceeded expectations."  
+> – **Jane Smith**, Project Manager at ABC Corp.
+
+---
+
+### 🎨 Figma Design
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FYOUR_FILE_ID%2FYour-Design%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
+---
+
+### 🐦 Latest Tweet
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/DGmovement87?style=social)](https://twitter.com/DGmovement87)
+
+<a href="https://twitter.com/DGmovement87">
+  <img src="https://github-readme-twitter.gazf.vercel.app/api?id=DGmovement87&layout=wide" alt="Latest Tweet" />
+</a>
+
+---
+
+### 🖼️ 3D Model
+
+<iframe width="560" height="315" src="https://sketchfab.com/models/YOUR_MODEL_ID/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+---
+
+### 📚 Book Recommendations
+
+- **Clean Code** by Robert C. Martin  
+- **You Don’t Know JS** by Kyle Simpson  
+- **The Pragmatic Programmer** by Andrew Hunt and David Thomas  
+
+---
+
+### 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Here-green)](https://danielgaudreault.github.io/mywebsite)
+
+---
+
+### 🤝 Contributors
+
+<a href="https://github.com/DanielGaudreault/DanielGaudreault/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=DanielGaudreault/DanielGaudreault" alt="Contributors" />
+</a>
+
+---
+
+### 🌙 Dark Mode Enthusiast
+
+![Dark Mode](https://img.shields.io/badge/Dark_Mode-Preferred-000000?style=for-the-badge&logo=night&logoColor=white)
 
 ---
 
@@ -132,6 +272,9 @@ If you like my work, consider supporting me:
 
 <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="35" alt="Buy Me a Coffee" />
+</a>
+<a href="https://github.com/sponsors/DanielGaudreault" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" height="35" alt="GitHub Sponsors" />
 </a>
 
 ---
