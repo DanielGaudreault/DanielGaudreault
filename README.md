@@ -261,18 +261,8 @@ Here’s the current weather in Montreal, Canada:
 
 ## 🖼️ 3D Model
 
-Here’s a simple 3D cube model:
-
-<iframe
-  title="Simple Cube"
-  width="100%"
-  height="400"
-  src="https://sketchfab.com/models/8eb5ef38bccb4b1ca55af7a0f527d8e8/embed"
-  frameborder="0"
-  allow="autoplay; fullscreen; vr"
-  mozallowfullscreen="true"
-  webkitallowfullscreen="true">
-</iframe>
+Check out my 3D models on Sketchfab:  
+[![Sketchfab](https://img.shields.io/badge/Sketchfab-1CA0F1?style=for-the-badge&logo=sketchfab&logoColor=white)](https://sketchfab.com/danielgaudreault)
 ---
 
 ## 📚 Book Recommendations
