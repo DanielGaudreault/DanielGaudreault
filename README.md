@@ -307,7 +307,3 @@ Let's build something amazing together! 🚀
 
 ---
 
-## 📈 GitHub Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DanielGaudreault/mywebsite/p
