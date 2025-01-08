@@ -393,8 +393,9 @@ A: Check out the [Contributions](#-contributions) section for details!
 
 ## 🎮 Fun Interactive Element
 
-Try this fun game: [Tic-Tac-Toe] https://danielgaudreault.github.io/DanielGaudreault/)  
-[![Tic-Tac-Toe Preview](https://via.placeholder.com/400x300)]( https://danielgaudreault.github.io/DanielGaudreault/)
+Try this fun game right here:
+
+<iframe src="https://danielgaudreault.github.io/DanielGaudreault/" width="400" height="400" frameborder="0" allowfullscreen></iframe>
 ---
 
 ## 🙏 Thank You!
