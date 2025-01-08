@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DanielGaudreault/DanielGaudreault/main/main%20logo%202.png" alt="Main Logo" />
+  <img src="https://raw.githubusercontent.com/DanielGaudreault/DanielGaudreault/main/main%20logo%202.png" alt="Main Logo" width="200"/>
 </p>
 
 <h1 align="center">Hello World! I'm Daniel, a Scottish Web Developer 👋</h1>
