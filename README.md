@@ -22,7 +22,6 @@
 - [Random Dev Joke](#-random-dev-joke)
 - [Current Weather](#-current-weather)
 - [My Coding Playlist](#-my-coding-playlist)
-- [GitHub Contribution Snake](#-github-contribution-snake)
 - [Hacktoberfest](#-hacktoberfest)
 - [Certifications](#-certifications)
 - [Testimonials](#-testimonials)
@@ -206,10 +205,6 @@ Here’s the current weather in Montreal, Canada:
 ## 🎶 My Coding Playlist
 
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7c383Bo6C1z81zR7dsQaCa?si=faBteJiqSAaIsmu8Uk7EhA)
-
----
-
-![Snake Animation](https://raw.githubusercontent.com/DanielGaudreault/DanielGaudreault/output/github-contribution-grid-snake.svg)
 
 ---
 
