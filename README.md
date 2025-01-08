@@ -209,8 +209,6 @@ Here’s the current weather in Montreal, Canada:
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
 ![Snake Animation](https://raw.githubusercontent.com/DanielGaudreault/DanielGaudreault/output/github-contribution-grid-snake.svg)
 
 ---
