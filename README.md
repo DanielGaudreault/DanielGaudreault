@@ -245,7 +245,8 @@ Here’s the current weather in Montreal, Canada:
 
 ## 🎨 Figma Design
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FYOUR_FILE_ID%2FYour-Design%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+Check out my designs on Figma:  
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/YOUR_FILE_ID/Your-Design)
 
 ---
 
@@ -263,6 +264,7 @@ Here’s the current weather in Montreal, Canada:
 
 Check out my 3D models on Sketchfab:  
 [![Sketchfab](https://img.shields.io/badge/Sketchfab-1CA0F1?style=for-the-badge&logo=sketchfab&logoColor=white)](https://sketchfab.com/danielgaudreault)
+
 ---
 
 ## 📚 Book Recommendations
