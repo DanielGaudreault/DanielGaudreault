@@ -394,7 +394,7 @@ A: Check out the [Contributions](#-contributions) section for details!
 ## 🎮 Fun Interactive Element
 
 Try this fun game: [Tic-Tac-Toe](https://danielgaudreault.github.io/DanielGaudreault/)  
-[![Tic-Tac-Toe Preview](URL_OF_YOUR_GAME_PREVIEW_IMAGE)](https://danielgaudreault.github.io/DanielGaudreault/)
+
 ---
 
 ## 🙏 Thank You!
