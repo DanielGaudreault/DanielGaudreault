@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tic-Tac-Toe</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #f0f0f0;
+      margin: 0;
+    }
+    .board {
+      display: grid;
+      grid-template-columns: repeat(3, 100px);
+      grid-template-rows: repeat(3, 100px);
+      gap: 5px;
+    }
+    .cell {
+      width: 100px;
+      height: 100px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 2rem;
+      background-color: #fff;
+      border: 2px solid #000;
+      cursor: pointer;
+    }
+    .cell:hover {
+      background-color: #e0e0e0;
+    }
+    .message {
+      margin-top: 20px;
+      font-size: 1.5rem;
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <div class="board">
+      <div class="cell" data-index="0"></div>
+      <div class="cell" data-index="1"></div>
+      <div class="cell" data-index="2"></div>
+      <div class="cell" data-index="3"></div>
+      <div class="cell" data-index="4"></div>
+      <div class="cell" data-index="5"></div>
+      <div class="cell" data-index="6"></div>
+      <div class="cell" data-index="7"></div>
+      <div class="cell" data-index="8"></div>
+    </div>
+    <div class="message"></div>
+  </div>
+  <script>
+    const board = document.querySelector('.board');
+    const cells = document.querySelectorAll('.cell');
+    const message = document.querySelector('.message');
+    let currentPlayer = 'X';
+    let gameActive = true;
+    const winningCombinations = [
+      [0, 1, 2], [3, 4, 5], [6, 7, 8], // Rows
+      [0, 3, 6], [1, 4, 7], [2, 5, 8], // Columns
+      [0, 4, 8], [2, 4, 6]             // Diagonals
+    ];
+
+    const checkWin = () => {
+      for (const combination of winningCombinations) {
+        const [a, b, c] = combination;
+        if (
+          cells[a].textContent &&
+          cells[a].textContent === cells[b].textContent &&
+          cells[a].textContent === cells[c].textContent
+        ) {
+          gameActive = false;
+          message.textContent = `Player ${currentPlayer} wins!`;
+          return;
+        }
+      }
+      if ([...cells].every(cell => cell.textContent)) {
+        gameActive = false;
+        message.textContent = "It's a draw!";
+      }
+    };
+
+    const handleCellClick = (e) => {
+      if (!gameActive || e.target.textContent) return;
+      e.target.textContent = currentPlayer;
+      checkWin();
+      currentPlayer = currentPlayer === 'X' ? 'O' : 'X';
+    };
+
+    cells.forEach(cell => cell.addEventListener('click', handleCellClick));
+  </script>
+</body>
+</html>
