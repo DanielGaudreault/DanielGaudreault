@@ -307,3 +307,46 @@ Let's build something amazing together! 🚀
 
 ---
 
+## ❓ FAQ
+
+### How did you get started in web development?
+I started learning web development in 2021 and quickly fell in love with the process of turning ideas into interactive experiences. I took online courses, built small projects, and eventually landed my first job as a web developer in 2024.
+
+### What’s your favorite tech stack?
+I love working with the MERN stack (MongoDB, Express.js, React.js, Node.js) because it allows me to build full-stack applications efficiently.
+
+### Do you have any tips for aspiring developers?
+Yes! Start small, be consistent, and don’t be afraid to make mistakes. The more you code, the better you’ll get. Also, contribute to open-source projects and network with other developers.
+
+---
+
+## 💬 Quote of the Day
+
+> "The only way to do great work is to love what you do." – Steve Jobs
+
+---
+
+## 👀 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/DanielGaudreault/count.svg)
+
+---
+
+## 🎉 Fun Interactive Element
+
+Try this fun interactive element:  
+[![Interactive Element](https://img.shields.io/badge/Click_Me-Interactive-blue)](https://example.com)
+
+---
+
+## 🙏 Thank You
+
+Thank you for visiting my profile! Feel free to reach out if you have any questions or just want to chat about tech. Let’s connect and create something amazing together! 🚀
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DanielGaudreault/DanielGaudreault/main/main%20logo%202.png" alt="Main Logo" width="200"/>
+</p>
+
+<h1 align="center">Keep Coding, Keep Creating! 🚀</h1>
