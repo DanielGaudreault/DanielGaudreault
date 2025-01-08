@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Hello World! I'm Daniel, a Scottish Web Developer 👋</h1>
+<h3 align="center">Turning ideas into interactive experiences 🚀</h3>
 
 ---
 
@@ -57,6 +58,7 @@ I'm Daniel, a passionate web developer based in Montreal, Canada.
 - ⚡ Currently, I'm building my personal portfolio website.  
 - 🍀 I love creating meaningful and user-friendly web experiences.  
 - 🎮 Fun Fact: I once built a website in 24 hours during a hackathon!  
+- ☕ Coffee enthusiast and photography lover 📸  
 
 Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-gaudreault-373b67203).
 
@@ -208,6 +210,7 @@ Here’s the current weather in Montreal, Canada:
 ## 🎶 My Coding Playlist
 
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7c383Bo6C1z81zR7dsQaCa?si=faBteJiqSAaIsmu8Uk7EhA)
+
 ---
 
 ## 🐍 GitHub Contribution Snake
