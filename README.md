@@ -225,10 +225,10 @@ Here’s the current weather in Montreal, Canada:
 ## 🌟 Testimonials
 
 > "Daniel is an incredible developer with a keen eye for detail. His work is always top-notch!"  
-> – **John Doe**, CEO of Example Inc.
+> – **Guy Seguin**, CEO of Example Inc.
 
 > "Working with Daniel was a pleasure. He delivered the project on time and exceeded expectations."  
-> – **Jane Smith**, Project Manager at ABC Corp.
+> – **Melanie Breard**, Project Manager at ABC Corp.
 
 ---
 
