@@ -334,7 +334,7 @@ Yes! Start small, be consistent, and don’t be afraid to make mistakes. The mor
 
 ## 🎉 Fun Interactive Element
 
-Try this fun interactive element:  
+Try this fun interactive element: Tic Tac Toe!
 [![Interactive Element](https://img.shields.io/badge/Click_Me-Interactive-blue)](https://danielgaudreault.github.io/DanielGaudreault/)
 
 ---
