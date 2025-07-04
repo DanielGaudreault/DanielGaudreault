@@ -48,12 +48,12 @@
 ## 👩‍💻 About Me
 
 I'm Daniel, a passionate web developer based in Montreal, Canada.  
-- 🔭 I've been working as a web developer since 2024.  
+- 🔭 I've been working as a web developer since 2023.  
 - 👨‍🎓 I studied at Harvard.  
 - ⚡ Currently, I'm building my personal portfolio website.  
 - 🍀 I love creating meaningful and user-friendly web experiences.  
 - 🎮 Fun Fact: I once built a website in 24 hours during a hackathon!  
-- ☕ Coffee enthusiast and photography lover 📸  
+- ☕ Tea enthusiast and photography lover 📸  
 
 Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-gaudreault-373b67203).
 
@@ -90,7 +90,7 @@ Check out more on my [website](https://danielgaudreault.github.io/mywebsite) or 
 - Git, Visual Studio, Docker, Unreal Engine, Bash, GitHub  
 
 ### Platforms
-- Android, iOS, Raspberry Pi  
+- Android, iOS, Raspberry Pi, Linux,
 
 ### Design
 - UI/UX Design, Responsive Web Design  
